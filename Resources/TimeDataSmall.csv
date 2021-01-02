@@ -1,0 +1,580 @@
+﻿EmployeeName,Info,Service,ClientName,StartTime,EndTime,StartDate,EndDate
+Agustin A,Clock In/Out,,,7:30 AM,9:05 PM,04/01/2019,04/01/2019
+Agustin A,Lunch,,,12:00 PM,2:45 PM,04/01/2019,04/01/2019
+Agustin A,Work,Enhancement-Regular Maintenance,David L,5:45 PM,9:05 PM,04/01/2019,04/01/2019
+Agustin A,Safety & Training,,Lynette S,7:43 AM,8:45 AM,04/02/2019,04/02/2019
+Agustin A,Clock In/Out,,,7:43 AM,7:07 PM,04/02/2019,04/02/2019
+Agustin A,Drive,,Lynette S,8:45 AM,9:28 AM,04/02/2019,04/02/2019
+Agustin A,Work,Enhancement- Hourly,Lynette S,9:29 AM,12:43 PM,04/02/2019,04/02/2019
+Agustin A,Lunch,,,12:43 PM,1:24 PM,04/02/2019,04/02/2019
+Agustin A,Work,Enhancement- Hourly,Lynette S,1:24 PM,6:24 PM,04/02/2019,04/02/2019
+Agustin A,Drive To Office,,,6:24 PM,6:57 PM,04/02/2019,04/02/2019
+Agustin A,Unload,,,6:57 PM,7:07 PM,04/02/2019,04/02/2019
+Agustin A,Clock In/Out,,,4:14 PM,7:02 PM,04/03/2019,04/03/2019
+Agustin A,Clock In/Out,,,7:34 AM,9:10 PM,04/04/2019,04/04/2019
+Agustin A,Safety & Training,,,7:46 AM,8:31 AM,04/04/2019,04/04/2019
+Agustin A,Drive,,Patricia G,8:41 AM,9:07 AM,04/04/2019,04/04/2019
+Agustin A,Work,Enhancement- Hourly,Patricia G,9:10 AM,1:42 PM,04/04/2019,04/04/2019
+Agustin A,Drive,,Christie C,1:53 PM,2:30 PM,04/04/2019,04/04/2019
+Agustin A,Lunch,,,2:30 PM,2:56 PM,04/04/2019,04/04/2019
+Agustin A,Work,Enhancement- Hourly,Christie C,2:58 PM,6:24 PM,04/04/2019,04/04/2019
+Agustin A,Drive,,Connie H,6:30 PM,7:00 PM,04/04/2019,04/04/2019
+Agustin A,Work,Enhancement- Hourly,Paul S,7:01 PM,8:19 PM,04/04/2019,04/04/2019
+Agustin A,Clock In/Out,,,7:30 AM,8:08 PM,04/05/2019,04/05/2019
+Agustin A,Safety & Training,,,7:30 AM,7:38 AM,04/05/2019,04/05/2019
+Agustin A,Drive,,Tori P,7:38 AM,9:10 AM,04/05/2019,04/05/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Connie H,9:10 AM,3:23 PM,04/05/2019,04/05/2019
+Agustin A,Lunch,,,3:32 PM,4:31 PM,04/05/2019,04/05/2019
+Agustin A,Drive,,Tori P,4:31 PM,5:08 PM,04/05/2019,04/05/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Tori P,5:08 PM,7:25 PM,04/05/2019,04/05/2019
+Agustin A,Drive,,,7:25 PM,7:56 PM,04/05/2019,04/05/2019
+Agustin A,Unload,,,7:56 PM,8:04 PM,04/05/2019,04/05/2019
+Agustin A,Clock In/Out,,,10:42 AM,5:53 PM,04/06/2019,04/06/2019
+Agustin A,Safety & Training,,,10:43 AM,11:23 AM,04/06/2019,04/06/2019
+Agustin A,Drive,,Geoffrey C,11:33 AM,11:50 AM,04/06/2019,04/06/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Geoffrey C,11:54 AM,2:16 PM,04/06/2019,04/06/2019
+Agustin A,Drive,,Robert P,2:18 PM,2:30 PM,04/06/2019,04/06/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Robert P,2:32 PM,5:14 PM,04/06/2019,04/06/2019
+Agustin A,Unload,,,5:45 PM,5:48 PM,04/06/2019,04/06/2019
+Agustin A,Clock In/Out,,,7:38 AM,8:03 PM,04/08/2019,04/08/2019
+Agustin A,Safety & Training,,,7:38 AM,7:48 AM,04/08/2019,04/08/2019
+Agustin A,Drive,,Joe O,7:48 AM,8:16 AM,04/08/2019,04/08/2019
+Agustin A,Work,Enhancement- Hourly,Joe O,8:16 AM,12:53 PM,04/08/2019,04/08/2019
+Agustin A,Lunch,,,12:53 PM,1:49 PM,04/08/2019,04/08/2019
+Agustin A,Work,Enhancement- Hourly,Joe O,1:49 PM,4:55 PM,04/08/2019,04/08/2019
+Agustin A,Drive,,Robynne B,4:55 PM,5:27 PM,04/08/2019,04/08/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Robynne B,5:27 PM,7:28 PM,04/08/2019,04/08/2019
+Agustin A,Drive,,,7:28 PM,7:49 PM,04/08/2019,04/08/2019
+Agustin A,Unload,,,7:49 PM,8:03 PM,04/08/2019,04/08/2019
+Agustin A,Safety & Training,,,7:24 AM,8:15 AM,04/09/2019,04/09/2019
+Agustin A,Clock In/Out,,,7:24 AM,2:20 PM,04/09/2019,04/09/2019
+Agustin A,Drive,,Katie S,8:15 AM,8:28 AM,04/09/2019,04/09/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Katie S,8:29 AM,11:58 AM,04/09/2019,04/09/2019
+Agustin A,Lunch,,,12:04 PM,1:00 PM,04/09/2019,04/09/2019
+Agustin A,Drive,,,1:00 PM,1:10 PM,04/09/2019,04/09/2019
+Agustin A,Work,Enhancement- Hourly,Maryanne M,1:10 PM,1:46 PM,04/09/2019,04/09/2019
+Agustin A,Unload,,,2:05 PM,2:20 PM,04/09/2019,04/09/2019
+Agustin A,Clock In/Out,,,7:10 AM,8:36 PM,04/11/2019,04/11/2019
+Agustin A,Safety & Training,,,7:10 AM,7:35 AM,04/11/2019,04/11/2019
+Agustin A,Drive,,Maryanne M,7:38 AM,7:59 AM,04/11/2019,04/11/2019
+Agustin A,Work,Enhancement- Hourly,Maryanne M,8:00 AM,1:47 PM,04/11/2019,04/11/2019
+Agustin A,Lunch,,,1:58 PM,2:50 PM,04/11/2019,04/11/2019
+Agustin A,Drive,,Stacy N,2:50 PM,3:24 PM,04/11/2019,04/11/2019
+Agustin A,Work,Enhancement-Regular Maintenance,Stacy N,3:25 PM,7:33 PM,04/11/2019,04/11/2019
+Agustin A,Drive To Office,,,7:41 PM,8:15 PM,04/11/2019,04/11/2019
+Agustin A,Unload,,,8:17 PM,8:35 PM,04/11/2019,04/11/2019
+Alejandro O,Clock In/Out,,,7:30 AM,8:05 PM,04/01/2019,04/01/2019
+Alejandro O,Lunch,,,12:00 PM,2:45 PM,04/01/2019,04/01/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Dave H,5:36 PM,7:42 PM,04/01/2019,04/01/2019
+Alejandro O,Clock In/Out,,,7:58 AM,6:57 PM,04/02/2019,04/02/2019
+Alejandro O,Safety & Training,,,7:58 AM,8:45 AM,04/02/2019,04/02/2019
+Alejandro O,Drive,,Steve C,8:45 AM,9:28 AM,04/02/2019,04/02/2019
+Alejandro O,Work,Enhancement- Hourly,Lynette S,9:29 AM,12:43 PM,04/02/2019,04/02/2019
+Alejandro O,Lunch,,,12:43 PM,1:24 PM,04/02/2019,04/02/2019
+Alejandro O,Work,Enhancement- Hourly,Lynette S,1:24 PM,6:24 PM,04/02/2019,04/02/2019
+Alejandro O,Drive To Office,,,6:24 PM,6:57 PM,04/02/2019,04/02/2019
+Alejandro O,Clock In/Out,,,4:09 PM,7:02 PM,04/03/2019,04/03/2019
+Alejandro O,Clock In/Out,,,7:31 AM,6:03 PM,04/04/2019,04/04/2019
+Alejandro O,Safety & Training,,,7:46 AM,8:33 AM,04/04/2019,04/04/2019
+Alejandro O,Drive,,Annette C,8:42 AM,9:09 AM,04/04/2019,04/04/2019
+Alejandro O,Work,Enhancement- Hourly,Annette C,9:09 AM,12:20 PM,04/04/2019,04/04/2019
+Alejandro O,Lunch,,,12:21 PM,1:55 PM,04/04/2019,04/04/2019
+Alejandro O,Work,Enhancement- Hourly,Annette C,1:55 PM,1:57 PM,04/04/2019,04/04/2019
+Alejandro O,Drive,,Marilyn C,2:00 PM,2:31 PM,04/04/2019,04/04/2019
+Alejandro O,Work,Office Complaints Irrigation,Marilyn C,2:31 PM,5:17 PM,04/04/2019,04/04/2019
+Alejandro O,Drive,,Marilyn C,5:21 PM,5:21 PM,04/04/2019,04/04/2019
+Alejandro O,Drive To Office,,,5:21 PM,5:50 PM,04/04/2019,04/04/2019
+Alejandro O,Unload,,,5:50 PM,6:03 PM,04/04/2019,04/04/2019
+Alejandro O,Clock In/Out,,,7:16 AM,6:35 PM,04/05/2019,04/05/2019
+Alejandro O,Safety & Training,,,7:17 AM,7:38 AM,04/05/2019,04/05/2019
+Alejandro O,Drive,,Annette D,7:40 AM,8:11 AM,04/05/2019,04/05/2019
+Alejandro O,Work,Enhancement- Hourly,Annette D,8:11 AM,10:41 AM,04/05/2019,04/05/2019
+Alejandro O,Lunch,,,10:41 AM,10:58 AM,04/05/2019,04/05/2019
+Alejandro O,Work,Enhancement- Hourly,Annette D,10:58 AM,11:33 AM,04/05/2019,04/05/2019
+Alejandro O,Drive,,M M,11:36 AM,11:37 AM,04/05/2019,04/05/2019
+Alejandro O,Drive,,M M,11:45 AM,12:40 PM,04/05/2019,04/05/2019
+Alejandro O,Lunch,,,11:56 AM,12:18 PM,04/05/2019,04/05/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,M M,12:41 PM,6:09 PM,04/05/2019,04/05/2019
+Alejandro O,Drive,,Annette D,6:10 PM,6:22 PM,04/05/2019,04/05/2019
+Alejandro O,Drive To Office,,,6:20 PM,6:22 PM,04/05/2019,04/05/2019
+Alejandro O,Unload,,,6:22 PM,6:35 PM,04/05/2019,04/05/2019
+Alejandro O,Clock In/Out,,,10:41 AM,7:16 PM,04/06/2019,04/06/2019
+Alejandro O,Safety & Training,,,10:42 AM,11:24 AM,04/06/2019,04/06/2019
+Alejandro O,Drive,,Craig R,11:27 AM,11:49 AM,04/06/2019,04/06/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Craig R,11:49 AM,3:48 PM,04/06/2019,04/06/2019
+Alejandro O,Lunch,,,3:51 PM,4:46 PM,04/06/2019,04/06/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Brian R,4:46 PM,6:43 PM,04/06/2019,04/06/2019
+Alejandro O,Drive To Office,,,6:45 PM,7:08 PM,04/06/2019,04/06/2019
+Alejandro O,Unload,,,7:08 PM,7:16 PM,04/06/2019,04/06/2019
+Alejandro O,Clock In/Out,,,7:31 AM,7:57 PM,04/08/2019,04/08/2019
+Alejandro O,Safety & Training,,,7:31 AM,7:44 AM,04/08/2019,04/08/2019
+Alejandro O,Drive,,T Business LLC,7:44 AM,8:12 AM,04/08/2019,04/08/2019
+Alejandro O,Work,Enhancement- Hourly,T Business LLC,8:12 AM,12:46 PM,04/08/2019,04/08/2019
+Alejandro O,Drive,,Ross E,12:46 PM,12:55 PM,04/08/2019,04/08/2019
+Alejandro O,Lunch,,,12:55 PM,1:17 PM,04/08/2019,04/08/2019
+Alejandro O,Drive,,Ross E,1:18 PM,1:40 PM,04/08/2019,04/08/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Ross E,1:41 PM,4:02 PM,04/08/2019,04/08/2019
+Alejandro O,Drive,,Mary R,4:02 PM,4:22 PM,04/08/2019,04/08/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Mary R,4:22 PM,4:55 PM,04/08/2019,04/08/2019
+Alejandro O,Drive,,The H Academy,4:56 PM,5:24 PM,04/08/2019,04/08/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,The H Academy,5:25 PM,7:19 PM,04/08/2019,04/08/2019
+Alejandro O,Drive To Office,,,7:19 PM,7:34 PM,04/08/2019,04/08/2019
+Alejandro O,Unload,,,7:34 PM,7:57 PM,04/08/2019,04/08/2019
+Alejandro O,Safety & Training,,,7:24 AM,8:20 AM,04/09/2019,04/09/2019
+Alejandro O,Clock In/Out,,,7:24 AM,8:15 AM,04/09/2019,04/09/2019
+Alejandro O,Clock In/Out,,,8:15 AM,3:26 PM,04/09/2019,04/09/2019
+Alejandro O,Drive,,Martha C,8:20 AM,8:37 AM,04/09/2019,04/09/2019
+Alejandro O,Work,Enhancement- Hourly,Martha C,8:37 AM,2:19 PM,04/09/2019,04/09/2019
+Alejandro O,Drive,,,2:19 PM,2:27 PM,04/09/2019,04/09/2019
+Alejandro O,Lunch,,,2:27 PM,2:57 PM,04/09/2019,04/09/2019
+Alejandro O,Drive,,Carolan O,2:57 PM,3:03 PM,04/09/2019,04/09/2019
+Alejandro O,Drive To Office,,,3:03 PM,3:19 PM,04/09/2019,04/09/2019
+Alejandro O,Unload,,,3:19 PM,3:26 PM,04/09/2019,04/09/2019
+Alejandro O,Clock In/Out,,,7:08 AM,9:04 PM,04/11/2019,04/11/2019
+Alejandro O,Safety & Training,,,7:10 AM,7:35 AM,04/11/2019,04/11/2019
+Alejandro O,Drive,,Tiffany H,7:37 AM,8:00 AM,04/11/2019,04/11/2019
+Alejandro O,Work,Enhancement- Hourly,Tiffany H,8:00 AM,1:01 PM,04/11/2019,04/11/2019
+Alejandro O,Drive,,Carolan O,1:03 PM,1:13 PM,04/11/2019,04/11/2019
+Alejandro O,Lunch,,,1:13 PM,1:39 PM,04/11/2019,04/11/2019
+Alejandro O,Drive,,Carolan O,1:39 PM,1:44 PM,04/11/2019,04/11/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Carolan O,1:44 PM,2:41 PM,04/11/2019,04/11/2019
+Alejandro O,Drive,,Ryan D,2:55 PM,3:19 PM,04/11/2019,04/11/2019
+Alejandro O,Work,Enhancement-Regular Maintenance,Ryan D,3:19 PM,8:27 PM,04/11/2019,04/11/2019
+Alejandro O,Drive To Office,,,8:28 PM,8:49 PM,04/11/2019,04/11/2019
+Alejandro O,Unload,,,8:28 PM,8:28 PM,04/11/2019,04/11/2019
+Alejandro O,Unload,,,8:50 PM,9:04 PM,04/11/2019,04/11/2019
+Alejandro Pan,Clock In/Out,,,7:30 AM,8:05 PM,04/01/2019,04/01/2019
+Alejandro Pan,Lunch,,,12:00 PM,2:45 PM,04/01/2019,04/01/2019
+Alejandro Pan,Work,Enhancement-Regular Maintenance,Dave H,5:36 PM,7:42 PM,04/01/2019,04/01/2019
+Alejandro Pan,Clock In/Out,,,7:41 AM,7:37 PM,04/02/2019,04/02/2019
+Alejandro Pan,Safety & Training,,R C Condos,7:41 AM,8:04 AM,04/02/2019,04/02/2019
+Alejandro Pan,Drive,,,8:04 AM,8:16 AM,04/02/2019,04/02/2019
+Alejandro Pan,Work,Enhancement- Hourly,R C Condos,8:16 AM,12:26 PM,04/02/2019,04/02/2019
+Alejandro Pan,Drive,,Anne H,12:26 PM,12:53 PM,04/02/2019,04/02/2019
+Alejandro Pan,Lunch,,,12:53 PM,1:33 PM,04/02/2019,04/02/2019
+Alejandro Pan,Work,Enhancement- Hourly,Anne H,1:33 PM,7:13 PM,04/02/2019,04/02/2019
+Alejandro Pan,Drive,,,7:13 PM,7:29 PM,04/02/2019,04/02/2019
+Alejandro Pan,Unload,,,7:29 PM,7:37 PM,04/02/2019,04/02/2019
+Alejandro Pan,Clock In/Out,,,2:44 PM,8:37 PM,04/03/2019,04/03/2019
+Alejandro Pan,Drive,,Maria C,2:44 PM,3:25 PM,04/03/2019,04/03/2019
+Alejandro Pan,Work,Enhancement-Regular Maintenance,Maria C,3:25 PM,8:05 PM,04/03/2019,04/03/2019
+Alejandro Pan,Drive,,Maria C,8:05 PM,8:34 PM,04/03/2019,04/03/2019
+Alejandro Pan,Unload,,,8:34 PM,8:37 PM,04/03/2019,04/03/2019
+Alejandro Pan,Clock In/Out,,,7:25 AM,6:20 PM,04/04/2019,04/04/2019
+Alejandro Pan,Safety & Training,,,7:47 AM,8:17 AM,04/04/2019,04/04/2019
+Alejandro Pan,Drive,,Richard S,8:17 AM,8:53 AM,04/04/2019,04/04/2019
+Alejandro Pan,Work,Enhancement- Hourly,Richard S,8:53 AM,11:58 AM,04/04/2019,04/04/2019
+Alejandro Pan,Drive,,Richard S,11:57 AM,12:47 PM,04/04/2019,04/04/2019
+Alejandro Pan,Lunch,,,12:13 PM,12:37 PM,04/04/2019,04/04/2019
+Alejandro Pan,Work,Enhancement- Hourly,Julie R,1:09 PM,5:32 PM,04/04/2019,04/04/2019
+Alejandro Pan,Lunch,,,5:32 PM,5:39 PM,04/04/2019,04/04/2019
+Alejandro Pan,Clock In/Out,,,7:17 AM,7:29 PM,04/05/2019,04/05/2019
+Alejandro Pan,Safety & Training,,,7:19 AM,7:37 AM,04/05/2019,04/05/2019
+Alejandro Pan,Drive,,Bill Q,7:38 AM,8:27 AM,04/05/2019,04/05/2019
+Alejandro Pan,Work,Enhancement- Hourly,Matt W,8:10 AM,1:40 PM,04/05/2019,04/05/2019
+Alejandro Pan,Lunch,,,1:40 PM,2:18 PM,04/05/2019,04/05/2019
+Alejandro Pan,Work,Enhancement- Hourly,Matt W,2:18 PM,3:59 PM,04/05/2019,04/05/2019
+Alejandro Pan,Drive,,Jeff M,3:58 PM,4:14 PM,04/05/2019,04/05/2019
+Alejandro Pan,Work,Enhancement-Regular Maintenance,Jeff M,4:14 PM,5:47 PM,04/05/2019,04/05/2019
+Alejandro Pan,Drive,,Bill Q,5:47 PM,5:58 PM,04/05/2019,04/05/2019
+Alejandro Pan,Unload,,,7:21 PM,7:26 PM,04/05/2019,04/05/2019
+Alejandro Pan,Clock In/Out,,,10:43 AM,6:46 PM,04/06/2019,04/06/2019
+Alejandro Pan,Safety & Training,,,10:44 AM,11:24 AM,04/06/2019,04/06/2019
+Alejandro Pan,Drive,,Margaret K,11:25 AM,11:38 AM,04/06/2019,04/06/2019
+Alejandro Pan,Drive,,Jenny M,11:52 AM,12:45 PM,04/06/2019,04/06/2019
+Alejandro Pan,Work,Enhancement-Regular Maintenance,Jenny M,12:46 PM,3:12 PM,04/06/2019,04/06/2019
+Alejandro Pan,Drive,,Craig K,3:13 PM,4:19 PM,04/06/2019,04/06/2019
+Alejandro Pan,Lunch,,,3:38 PM,4:08 PM,04/06/2019,04/06/2019
+Alejandro Pan,Work,Enhancement-Regular Maintenance,Craig K,4:19 PM,5:50 PM,04/06/2019,04/06/2019
+Alejandro Pan,Safety & Training,,,7:32 AM,7:46 AM,04/08/2019,04/08/2019
+Alejandro Pan,Clock In/Out,,,7:32 AM,5:08 PM,04/08/2019,04/08/2019
+Alejandro Pan,Drive,,Jack J,7:46 AM,8:17 AM,04/08/2019,04/08/2019
+Alejandro Pan,Work,Enhancement- Hourly,Jack J,8:17 AM,11:40 AM,04/08/2019,04/08/2019
+Alejandro Pan,Drive,,Jessica C,11:40 AM,11:44 AM,04/08/2019,04/08/2019
+Alejandro Pan,Lunch,,,11:44 AM,12:15 PM,04/08/2019,04/08/2019
+Alejandro Pan,Drive,,,12:15 PM,12:49 PM,04/08/2019,04/08/2019
+Alejandro Pan,Work,Enhancement- Hourly,Jessica C,12:49 PM,4:27 PM,04/08/2019,04/08/2019
+Alejandro Pan,Drive,,,4:27 PM,5:02 PM,04/08/2019,04/08/2019
+Alejandro Pan,Unload,,,5:02 PM,5:08 PM,04/08/2019,04/08/2019
+Alejandro Pan,Clock In/Out,,,7:26 AM,2:36 PM,04/09/2019,04/09/2019
+Alejandro Pan,Safety & Training,,,7:26 AM,8:14 AM,04/09/2019,04/09/2019
+Alejandro Pan,Drive,,,8:14 AM,8:38 AM,04/09/2019,04/09/2019
+Alejandro Pan,Work,Enhancement- Hourly,Jon M,8:38 AM,11:22 AM,04/09/2019,04/09/2019
+Alejandro Pan,Drive,,Jon M,11:22 AM,11:32 AM,04/09/2019,04/09/2019
+Alejandro Pan,Lunch,,Rebecca S,11:32 AM,12:04 PM,04/09/2019,04/09/2019
+Alejandro Pan,Drive,,,12:04 PM,12:32 PM,04/09/2019,04/09/2019
+Alejandro Pan,Unload,,Rebecca S,12:33 PM,2:36 PM,04/09/2019,04/09/2019
+Alejandro Pan,Safety & Training,,,7:10 AM,7:36 AM,04/11/2019,04/11/2019
+Alejandro Pan,Clock In/Out,,,7:10 AM,7:29 PM,04/11/2019,04/11/2019
+Alejandro Pan,Drive,,,7:38 AM,8:05 AM,04/11/2019,04/11/2019
+Alejandro Pan,Work,Enhancement- Hourly,Kris S,8:06 AM,2:04 PM,04/11/2019,04/11/2019
+Alejandro Pan,Drive,,Kris S,2:04 PM,2:14 PM,04/11/2019,04/11/2019
+Alejandro Pan,Lunch,,,2:14 PM,2:47 PM,04/11/2019,04/11/2019
+Alejandro Pan,Drive,,,2:47 PM,3:42 PM,04/11/2019,04/11/2019
+Alejandro Pan,Work,Enhancement-Regular Maintenance,,3:42 PM,6:52 PM,04/11/2019,04/11/2019
+Alejandro Pan,Drive,,Rebecca S,6:56 PM,6:56 PM,04/11/2019,04/11/2019
+Alejandro Pan,Drive,,Rebecca S,6:57 PM,7:23 PM,04/11/2019,04/11/2019
+Alejandro Pan,Unload,,Rebecca S,7:23 PM,7:29 PM,04/11/2019,04/11/2019
+Alejandro Par,Clock In/Out,,,7:30 AM,8:48 PM,04/01/2019,04/01/2019
+Alejandro Par,Lunch,,,12:00 PM,2:45 PM,04/01/2019,04/01/2019
+Alejandro Par,Work,Enhancement-Regular Maintenance,,5:58 PM,6:58 PM,04/01/2019,04/01/2019
+Alejandro Par,Work,Enhancement-Regular Maintenance,Chris W,7:08 PM,8:17 PM,04/01/2019,04/01/2019
+Alejandro Par,Clock In/Out,,Craig R,7:58 AM,6:21 PM,04/02/2019,04/02/2019
+Alejandro Par,Safety & Training,,,7:58 AM,8:42 AM,04/02/2019,04/02/2019
+Alejandro Par,Drive,,,8:42 AM,9:04 AM,04/02/2019,04/02/2019
+Alejandro Par,Work,Enhancement- Hourly,Steve C,9:04 AM,12:04 PM,04/02/2019,04/02/2019
+Alejandro Par,Lunch,,William B,12:04 PM,12:33 PM,04/02/2019,04/02/2019
+Alejandro Par,Work,Enhancement- Hourly,,12:33 PM,5:38 PM,04/02/2019,04/02/2019
+Alejandro Par,Drive,,William B,5:38 PM,6:07 PM,04/02/2019,04/02/2019
+Alejandro Par,Unload,,,6:08 PM,6:21 PM,04/02/2019,04/02/2019
+Alejandro Par,Drive,,,3:21 PM,3:42 PM,04/03/2019,04/03/2019
+Alejandro Par,Clock In/Out,,Brad R,3:21 PM,8:28 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,,3:42 PM,4:02 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Brad R,4:03 PM,4:07 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,Clark B,4:07 PM,4:24 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Clark B,4:25 PM,4:28 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,Kerry L,4:28 PM,4:44 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Kerry L,4:45 PM,4:48 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,Mary K,4:49 PM,5:32 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Mary K,5:33 PM,5:38 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,Janet M,5:38 PM,5:58 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Janet M,5:59 PM,6:03 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Marketing,Carrey R,6:03 PM,6:34 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Carrey R,6:35 PM,6:40 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,Janica R,6:40 PM,7:07 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive,,Janica R,7:08 PM,7:20 PM,04/03/2019,04/03/2019
+Alejandro Par,Work,Lawn Cut,Sue D,7:21 PM,7:54 PM,04/03/2019,04/03/2019
+Alejandro Par,Drive To Office,,Sue D,7:54 PM,8:19 PM,04/03/2019,04/03/2019
+Alejandro Par,Unload,,,8:19 PM,8:28 PM,04/03/2019,04/03/2019
+Alejandro Par,Clock In/Out,,,7:02 AM,7:57 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,,7:22 AM,7:59 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Susan A,7:59 AM,8:31 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Susan A,8:32 AM,8:37 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Janet L,8:37 AM,8:46 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Janet L,8:47 AM,8:52 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Sweeny V,8:52 AM,8:58 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Sweeny V,8:57 AM,9:04 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Matt H,9:04 AM,9:31 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Matt H,9:57 AM,10:00 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Mikelle N,10:00 AM,10:18 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Mikelle N,10:18 AM,10:21 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Martha C,10:20 AM,10:23 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Martha C,10:22 AM,10:22 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Phil S,10:23 AM,10:28 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Phil S,10:28 AM,10:45 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Phil S,10:45 AM,10:49 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,David D,10:49 AM,11:15 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,David D,11:17 AM,11:20 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Melissa D,11:21 AM,11:40 AM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Melissa D,11:42 AM,11:45 AM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Tara H,11:45 AM,12:06 PM,04/04/2019,04/04/2019
+Alejandro Par,Lunch,,Tara H,12:09 PM,12:44 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,,12:44 PM,12:53 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Steve O,12:54 PM,12:59 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Kristine C,12:59 PM,1:12 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Kristine C,1:16 PM,1:21 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Lowell H,1:21 PM,1:39 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Lowell H,1:39 PM,1:46 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Tammy K,1:46 PM,2:05 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Tammy K,2:06 PM,2:12 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Lila H,2:12 PM,2:30 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Lila H,2:31 PM,2:36 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Lamia B,2:36 PM,3:02 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Lamia B,3:02 PM,3:06 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Rob S,3:06 PM,3:38 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Rob S,3:42 PM,3:43 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,George K,3:43 PM,4:01 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,George K,4:03 PM,4:05 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Lisa E,4:05 PM,4:21 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Lisa E,4:22 PM,4:24 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Chris Y,4:24 PM,4:46 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Chris Y,4:47 PM,4:49 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Kyle R,4:49 PM,5:30 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Kyle R,5:30 PM,5:30 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Lori N,5:31 PM,5:32 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Lori N,5:33 PM,6:25 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Lori N,6:27 PM,6:30 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,The H Academy,6:30 PM,6:35 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,The H Academy,6:37 PM,6:40 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Paul B,6:40 PM,7:00 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive,,Paul B,7:01 PM,7:05 PM,04/04/2019,04/04/2019
+Alejandro Par,Work,Lawn Cut,Rachael P,7:05 PM,7:26 PM,04/04/2019,04/04/2019
+Alejandro Par,Drive To Office,,Rachael P,7:27 PM,7:48 PM,04/04/2019,04/04/2019
+Alejandro Par,Unload,,,7:48 PM,7:48 PM,04/04/2019,04/04/2019
+Alejandro Par,Unload,,,7:48 PM,7:57 PM,04/04/2019,04/04/2019
+Alejandro Par,Clock In/Out,,,6:50 AM,8:39 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,,7:05 AM,7:34 AM,04/05/2019,04/05/2019
+Alejandro Par,Safety & Training,,B P LLC,7:05 AM,7:05 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,,7:35 AM,8:06 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,B P LLC,8:07 AM,8:17 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Claudia D,8:17 AM,8:44 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Claudia D,8:47 AM,8:54 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Susan W,8:54 AM,9:11 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Susan W,9:12 AM,9:20 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,John M,9:20 AM,9:28 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,John M,9:29 AM,9:36 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Hang D,9:36 AM,10:03 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Hang D,10:06 AM,10:12 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Marci R,10:13 AM,10:38 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Marci R,10:39 AM,10:42 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Margo L,10:42 AM,10:55 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Margo L,10:57 AM,11:12 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R S LLC,11:13 AM,11:19 AM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R S LLC,11:20 AM,11:21 AM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Tommy T,11:21 AM,11:47 AM,04/05/2019,04/05/2019
+Alejandro Par,Lunch,,Tommy T,11:49 AM,12:33 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,,12:33 PM,12:47 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Crystal U,12:47 PM,12:54 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Crystal U,12:55 PM,12:55 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Suue B,12:55 PM,1:06 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Suue B,1:09 PM,1:14 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Jean C,1:14 PM,1:48 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Jean C,1:48 PM,1:55 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Bram J,1:55 PM,2:20 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Bram J,2:21 PM,2:35 PM,04/05/2019,04/05/2019
+Alejandro Par,Break,,R S LLC,2:29 PM,2:41 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,,2:40 PM,2:45 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Verla C,2:45 PM,3:04 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Verla C,3:05 PM,3:13 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Marketing,R S LLC,3:16 PM,3:52 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R S LLC,3:53 PM,4:00 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Marketing,R S LLC,4:00 PM,4:06 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R S LLC,4:09 PM,4:13 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R S LLC,4:15 PM,4:25 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,R S LLC,4:25 PM,4:25 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R S LLC,4:26 PM,4:31 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,E G LLC,4:31 PM,4:49 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,E G LLC,4:50 PM,4:58 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,R I LLC,4:58 PM,5:17 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,R I LLC,5:17 PM,5:21 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Michelle T,5:21 PM,5:47 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Michelle T,5:48 PM,5:50 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Pauline H,5:53 PM,5:54 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Pauline H,5:54 PM,6:25 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Pauline H,6:26 PM,6:35 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Harvey G,6:35 PM,6:50 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Harvey G,6:56 PM,7:00 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,S P LLC,7:00 PM,7:24 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,S P LLC,7:26 PM,7:32 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive,,Todd N,7:33 PM,7:35 PM,04/05/2019,04/05/2019
+Alejandro Par,Work,Lawn Cut,Todd N,7:35 PM,8:17 PM,04/05/2019,04/05/2019
+Alejandro Par,Drive To Office,,Todd N,8:18 PM,8:32 PM,04/05/2019,04/05/2019
+Alejandro Par,Unload,,,8:33 PM,8:38 PM,04/05/2019,04/05/2019
+Alejandro Par,Clock In/Out,,,10:23 AM,4:48 PM,04/06/2019,04/06/2019
+Alejandro Par,Drive,,,11:39 AM,11:52 AM,04/06/2019,04/06/2019
+Alejandro Par,Work,Enhancement-Regular Maintenance,Marcus P,11:52 AM,1:12 PM,04/06/2019,04/06/2019
+Alejandro Par,Drive,,Marcus P,1:12 PM,1:18 PM,04/06/2019,04/06/2019
+Alejandro Par,Work,Enhancement-Regular Maintenance,Kathleen L,1:18 PM,4:06 PM,04/06/2019,04/06/2019
+Alejandro Par,Drive To Office,,Kathleen L,4:06 PM,4:30 PM,04/06/2019,04/06/2019
+Alejandro Par,Unload,,,4:31 PM,4:48 PM,04/06/2019,04/06/2019
+Alejandro Par,Clock In/Out,,,7:09 AM,8:06 PM,04/08/2019,04/08/2019
+Alejandro Par,Safety & Training,,,7:09 AM,7:32 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,,7:32 AM,7:54 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Jeffrey S,7:54 AM,8:17 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Jeffrey S,8:17 AM,8:24 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,EOW Lawn Cut,Justin H,8:24 AM,8:25 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Justin H,8:26 AM,8:33 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Steve D,8:33 AM,8:49 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Steve D,8:49 AM,8:52 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Craig C,8:53 AM,9:24 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Craig C,9:24 AM,9:31 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Kent A,9:31 AM,9:47 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Kent A,9:48 AM,9:51 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Susan W,9:51 AM,10:19 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Susan W,10:19 AM,10:21 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Janet G,10:21 AM,10:47 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Janet G,10:47 AM,10:54 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,EOW Lawn Cut,Tami F,10:54 AM,11:00 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Tami F,11:00 AM,11:05 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Nedra R,11:05 AM,11:18 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Nedra R,11:19 AM,11:24 AM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Donene P,11:24 AM,11:47 AM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Donene P,11:47 AM,12:02 PM,04/08/2019,04/08/2019
+Alejandro Par,Lunch,,,12:02 PM,12:25 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,,12:25 PM,12:31 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,David R,12:31 PM,12:45 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,David R,12:46 PM,12:51 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Chris P,12:51 PM,1:05 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Chris P,1:05 PM,1:09 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Gordon G,1:10 PM,1:33 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Gordon G,1:33 PM,1:38 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Gordon H,1:38 PM,1:52 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Gordon H,1:52 PM,2:10 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Zach H,2:10 PM,2:13 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Dave B,2:13 PM,2:41 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Dave B,2:41 PM,2:44 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Carol B,2:44 PM,3:06 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Carol B,3:06 PM,3:25 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Patty A,3:25 PM,3:46 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Peter C,3:46 PM,3:49 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Wilma M,3:49 PM,4:15 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Wilma M,4:15 PM,4:23 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Bill Q,4:23 PM,4:46 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive To Office,,Bill Q,4:47 PM,5:17 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,,5:17 PM,5:37 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Rachael P,5:37 PM,5:53 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Rachael P,5:54 PM,6:05 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,The H Academy,6:05 PM,6:16 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Lowell H,6:16 PM,6:21 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Lila H,6:21 PM,6:27 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Lila H,6:28 PM,6:33 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Tara H,6:33 PM,6:45 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Tara H,6:46 PM,6:49 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Phil S,6:49 PM,7:05 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Phil S,7:05 PM,7:18 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive,,Martha C,7:18 PM,7:22 PM,04/08/2019,04/08/2019
+Alejandro Par,Work,Lawn Cut,Mikelle N,7:22 PM,7:43 PM,04/08/2019,04/08/2019
+Alejandro Par,Drive To Office,,Mikelle N,7:43 PM,8:00 PM,04/08/2019,04/08/2019
+Alejandro Par,Unload,,,8:00 PM,8:06 PM,04/08/2019,04/08/2019
+Alejandro Par,Safety & Training,,,6:53 AM,7:20 AM,04/09/2019,04/09/2019
+Alejandro Par,Clock In/Out,,,6:53 AM,2:45 PM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,,7:20 AM,7:46 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Sweeny V,7:46 AM,7:48 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Sweeny V,7:49 AM,7:54 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,EOW Lawn Cut,Shannon M,7:54 AM,8:10 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Shannon M,8:11 AM,8:16 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,John M,8:16 AM,8:22 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,John M,8:22 AM,8:32 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Matt H,8:32 AM,8:32 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Matt H,8:33 AM,9:13 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Matt H,9:13 AM,9:24 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Jill G,9:24 AM,9:29 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Stephen E,9:29 AM,10:12 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Stephen E,10:13 AM,10:19 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Clark B,10:19 AM,10:34 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Clark B,10:35 AM,10:36 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Justin T,10:36 AM,10:36 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Justin T,10:36 AM,10:46 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Lawrence S,10:47 AM,11:06 AM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,Lawrence S,11:06 AM,11:36 AM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,R S LLC,11:36 AM,11:51 AM,04/09/2019,04/09/2019
+Alejandro Par,Lunch,,E G LLC,11:51 AM,12:38 PM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,,12:38 PM,12:45 PM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,R I LLC,12:45 PM,1:33 PM,04/09/2019,04/09/2019
+Alejandro Par,Drive,,R I LLC,1:34 PM,1:40 PM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Michelle T,1:40 PM,1:56 PM,04/09/2019,04/09/2019
+Alejandro Par,Work,Lawn Cut,Michelle T,1:56 PM,2:13 PM,04/09/2019,04/09/2019
+Alejandro Par,Drive To Office,,Pauline H,2:13 PM,2:39 PM,04/09/2019,04/09/2019
+Alejandro Par,Unload,,,2:39 PM,2:44 PM,04/09/2019,04/09/2019
+Alejandro Par,Clock In/Out,,,6:46 AM,8:08 PM,04/11/2019,04/11/2019
+Alejandro Par,Safety & Training,,,6:46 AM,7:05 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,,7:07 AM,7:28 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Matt H,7:28 AM,7:44 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Matt H,7:44 AM,8:02 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,R S LLC,8:03 AM,8:10 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,H B LLC,8:10 AM,8:35 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,H B LLC,8:37 AM,8:44 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,S R LLC,8:44 AM,9:02 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,S R LLC,9:02 AM,9:07 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Sue B,9:07 AM,9:22 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Sue B,9:24 AM,9:28 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Rich K,9:28 AM,9:44 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Rich K,9:45 AM,9:51 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Ted C,9:51 AM,9:52 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Ted C,9:52 AM,10:00 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Kent P,10:00 AM,10:17 AM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Kent P,10:18 AM,10:33 AM,04/11/2019,04/11/2019
+Alejandro Par,Work,Marketing,R S LLC,10:38 AM,11:42 AM,04/11/2019,04/11/2019
+Alejandro Par,Lunch,,R S LLC,11:45 AM,12:18 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,,12:18 PM,12:23 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Nancy F,12:23 PM,12:44 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Nancy F,12:44 PM,12:48 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Marcus P,12:48 PM,1:12 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Marcus P,1:14 PM,1:19 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Katie S,1:19 PM,1:53 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Katie S,1:53 PM,1:59 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Harvey G,1:59 PM,2:20 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Harvey G,2:21 PM,2:25 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,S P LLC,2:25 PM,2:49 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,S P LLC,2:49 PM,2:54 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Norman H,2:54 PM,3:13 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Norman H,3:14 PM,3:24 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Darlyne M,3:24 PM,3:26 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Darlyne M,3:26 PM,3:26 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Darlyne M,3:27 PM,3:30 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Lynne R,3:30 PM,3:50 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Lynne R,3:51 PM,3:52 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Vic F,4:22 PM,4:44 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Vic F,4:45 PM,5:23 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Barrett M,5:27 PM,5:29 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Dylan F,5:55 PM,5:55 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Dylan F,5:56 PM,6:17 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Kathleen L,5:56 PM,6:17 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Kathleen L,6:18 PM,7:00 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,David L,7:01 PM,7:02 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Lee S,7:02 PM,7:23 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive,,Lee S,7:25 PM,7:26 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,Bruce F,7:27 PM,7:49 PM,04/11/2019,04/11/2019
+Alejandro Par,Drive To Office,,Bruce F,7:49 PM,8:04 PM,04/11/2019,04/11/2019
+Alejandro Par,Work,Lawn Cut,,7:49 PM,7:49 PM,04/11/2019,04/11/2019
+Alejandro Par,Unload,,Bruce F,8:05 PM,8:08 PM,04/11/2019,04/11/2019
+Alejandro R,Clock In/Out,,,7:30 AM,8:30 PM,04/01/2019,04/01/2019
+Alejandro R,Lunch,,,12:00 PM,2:45 PM,04/01/2019,04/01/2019
+Alejandro R,Work,Enhancement- Hourly,,6:09 PM,7:55 PM,04/01/2019,04/01/2019
+Alejandro R,Clock In/Out,,Hailey H,7:41 AM,7:27 PM,04/02/2019,04/02/2019
+Alejandro R,Safety & Training,,,7:41 AM,8:27 AM,04/02/2019,04/02/2019
+Alejandro R,Drive,,Paul B,8:27 AM,9:02 AM,04/02/2019,04/02/2019
+Alejandro R,Work,Enhancement- Hourly,Paul B,9:02 AM,3:00 PM,04/02/2019,04/02/2019
+Alejandro R,Drive,,Paul B,3:00 PM,3:12 PM,04/02/2019,04/02/2019
+Alejandro R,Lunch,,,3:12 PM,3:42 PM,04/02/2019,04/02/2019
+Alejandro R,Drive,,,3:42 PM,3:51 PM,04/02/2019,04/02/2019
+Alejandro R,Work,Enhancement- Hourly,Scott S,3:52 PM,6:32 PM,04/02/2019,04/02/2019
+Alejandro R,Drive,,Scott S,6:38 PM,7:04 PM,04/02/2019,04/02/2019
+Alejandro R,Unload,,Scott S,7:04 PM,7:27 PM,04/02/2019,04/02/2019
+Alejandro R,Drive,,,4:01 PM,4:23 PM,04/03/2019,04/03/2019
+Alejandro R,Clock In/Out,,Bill R,4:01 PM,8:33 PM,04/03/2019,04/03/2019
+Alejandro R,Work,Marketing,,4:23 PM,8:01 PM,04/03/2019,04/03/2019
+Alejandro R,Drive,,Bill R,8:02 PM,8:32 PM,04/03/2019,04/03/2019
+Alejandro R,Clock In/Out,,Rebecca S,7:34 AM,9:09 PM,04/04/2019,04/04/2019
+Alejandro R,Safety & Training,,,7:46 AM,8:31 AM,04/04/2019,04/04/2019
+Alejandro R,Drive,,,8:41 AM,9:07 AM,04/04/2019,04/04/2019
+Alejandro R,Work,Enhancement- Hourly,Patricia G,9:10 AM,1:42 PM,04/04/2019,04/04/2019
+Alejandro R,Drive,,Patricia G,1:53 PM,2:30 PM,04/04/2019,04/04/2019
+Alejandro R,Lunch,,Christie C,2:30 PM,2:56 PM,04/04/2019,04/04/2019
+Alejandro R,Work,Enhancement- Hourly,,2:58 PM,6:24 PM,04/04/2019,04/04/2019
+Alejandro R,Drive,,Christie C,6:30 PM,7:00 PM,04/04/2019,04/04/2019
+Alejandro R,Work,Enhancement- Hourly,Connie H,7:01 PM,8:19 PM,04/04/2019,04/04/2019
+Alejandro R,Clock In/Out,,Paul S,7:30 AM,8:08 PM,04/05/2019,04/05/2019
+Alejandro R,Safety & Training,,,7:30 AM,7:38 AM,04/05/2019,04/05/2019
+Alejandro R,Drive,,,7:38 AM,9:10 AM,04/05/2019,04/05/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Tori P,9:10 AM,3:23 PM,04/05/2019,04/05/2019
+Alejandro R,Lunch,,Connie H,3:23 PM,4:31 PM,04/05/2019,04/05/2019
+Alejandro R,Drive,,,4:31 PM,5:08 PM,04/05/2019,04/05/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Tori P,5:08 PM,7:25 PM,04/05/2019,04/05/2019
+Alejandro R,Unload,,Tori P,7:56 PM,8:08 PM,04/05/2019,04/05/2019
+Alejandro R,Clock In/Out,,,10:42 AM,5:53 PM,04/06/2019,04/06/2019
+Alejandro R,Safety & Training,,,10:43 AM,11:23 AM,04/06/2019,04/06/2019
+Alejandro R,Drive,,,11:33 AM,11:50 AM,04/06/2019,04/06/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Geoffrey C,11:54 AM,2:16 PM,04/06/2019,04/06/2019
+Alejandro R,Drive,,Geoffrey C,2:18 PM,2:30 PM,04/06/2019,04/06/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Robert P,2:32 PM,5:14 PM,04/06/2019,04/06/2019
+Alejandro R,Unload,,Robert P,5:45 PM,5:48 PM,04/06/2019,04/06/2019
+Alejandro R,Clock In/Out,,,7:38 AM,8:03 PM,04/08/2019,04/08/2019
+Alejandro R,Safety & Training,,,7:38 AM,7:48 AM,04/08/2019,04/08/2019
+Alejandro R,Drive,,,7:48 AM,8:16 AM,04/08/2019,04/08/2019
+Alejandro R,Work,Enhancement- Hourly,Joe O,8:16 AM,12:53 PM,04/08/2019,04/08/2019
+Alejandro R,Lunch,,Joe O,12:53 PM,1:49 PM,04/08/2019,04/08/2019
+Alejandro R,Work,Enhancement- Hourly,,1:49 PM,4:55 PM,04/08/2019,04/08/2019
+Alejandro R,Drive,,Joe O,4:55 PM,5:27 PM,04/08/2019,04/08/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Robynne B,5:27 PM,7:28 PM,04/08/2019,04/08/2019
+Alejandro R,Drive,,Robynne B,7:28 PM,7:49 PM,04/08/2019,04/08/2019
+Alejandro R,Unload,,,7:49 PM,8:03 PM,04/08/2019,04/08/2019
+Alejandro R,Clock In/Out,,,7:24 AM,2:20 PM,04/09/2019,04/09/2019
+Alejandro R,Safety & Training,,,7:24 AM,8:15 AM,04/09/2019,04/09/2019
+Alejandro R,Drive,,,8:15 AM,8:28 AM,04/09/2019,04/09/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Katie S,8:29 AM,11:58 AM,04/09/2019,04/09/2019
+Alejandro R,Drive,,Katie S,11:58 AM,12:04 PM,04/09/2019,04/09/2019
+Alejandro R,Lunch,,,12:04 PM,1:00 PM,04/09/2019,04/09/2019
+Alejandro R,Drive,,,1:00 PM,1:10 PM,04/09/2019,04/09/2019
+Alejandro R,Work,Enhancement- Hourly,Maryanne M,1:10 PM,1:46 PM,04/09/2019,04/09/2019
+Alejandro R,Drive,,Maryanne M,1:47 PM,2:05 PM,04/09/2019,04/09/2019
+Alejandro R,Unload,,,2:05 PM,2:20 PM,04/09/2019,04/09/2019
+Alejandro R,Safety & Training,,,7:10 AM,7:35 AM,04/11/2019,04/11/2019
+Alejandro R,Clock In/Out,,,7:10 AM,8:36 PM,04/11/2019,04/11/2019
+Alejandro R,Drive,,,7:38 AM,7:59 AM,04/11/2019,04/11/2019
+Alejandro R,Work,Enhancement- Hourly,,8:00 AM,1:47 PM,04/11/2019,04/11/2019
+Alejandro R,Lunch,,,1:58 PM,2:50 PM,04/11/2019,04/11/2019
+Alejandro R,Drive,,Maryanne M,2:50 PM,3:24 PM,04/11/2019,04/11/2019
+Alejandro R,Work,Enhancement-Regular Maintenance,Maryanne M,3:25 PM,7:33 PM,04/11/2019,04/11/2019
+Alejandro R,Drive To Office,,,7:41 PM,8:15 PM,04/11/2019,04/11/2019
+Alejandro R,Unload,,Stacy N,8:17 PM,8:35 PM,04/11/2019,04/11/2019
